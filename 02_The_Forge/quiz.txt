@@ -1,1 +1,7 @@
-Mini-challenges and quiz questions for this chapter.
+THE_FORGE Quiz
+
+1. What does the userCard component display?
+2. What happens when the button is clicked?
+3. What is the initial role shown in the component?
+4. Which LWC element is used to show a card layout?
+5. How do you expose a component to AppPage in metadata?
