@@ -1,1 +1,6 @@
 Mini-challenges and quiz questions for this chapter.
+1. What does LWC stand for?
+2. Which language is LWC primarily built on?
+3. What command creates a new LWC component?
+4. What file defines the HTML structure of an LWC?
+5. What tool do you use to deploy components to Salesforce?
