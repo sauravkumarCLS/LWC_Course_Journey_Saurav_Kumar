@@ -1,7 +1,37 @@
 THE_FORGE Quiz
 
-1. What does the userCard component display?
-2. What happens when the button is clicked?
-3. What is the initial role shown in the component?
-4. Which LWC element is used to show a card layout?
-5. How do you expose a component to AppPage in metadata?
+Q1. What is the purpose of the userCard component?
+   A. To display a user's profile information
+   B. To create a login form
+   C. To show a list of users
+   D. To manage user permissions
+   ✅ Correct Answer: To display a user's profile information
+
+Q2. Which Lightning Web Component is used to create a styled card layout?
+   A. lightning-button
+   B. lightning-card
+   C. lightning-layout
+   D. lightning-input
+   ✅ Correct Answer: lightning-card
+
+Q3. What happens when the 'Update Info' button is clicked?
+   A. The component reloads
+   B. The user's name and role are updated
+   C. An API call is made
+   D. A new user is added
+   ✅ Correct Answer: The user's name and role are updated
+
+Q4. What is the initial role displayed in the userCard component?
+   A. LWC Apprentice
+   B. Software Engineer
+   C. Implementation Engineer
+   D. Salesforce Developer
+   ✅ Correct Answer: Software Engineer
+
+Q5. Which file defines the metadata and exposure settings for the component?
+   A. userCard.html
+   B. userCard.js
+   C. userCard.js-meta.xml
+   D. userCard.css
+   ✅ Correct Answer: userCard.js-meta.xml
+
