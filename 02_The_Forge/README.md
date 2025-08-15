@@ -11,4 +11,4 @@ This chapter introduces the `userCard` component in your LWC course journey.
 - Use properties and event handling
 
 ## Next Chapter
-Week 3: The Uprising
+Week 3: Wizard of Data
